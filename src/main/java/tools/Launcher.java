@@ -26,6 +26,10 @@ import java.util.ArrayList;
 
 public class Launcher {
     public static void main(String[] args) {
+        System.out.println("Lurchbot  Copyright (C) 2017 \n" +
+                "This program comes with ABSOLUTELY NO WARRANTY;\nThis is free software, and you are welcome to " +
+                "redistribute it under certain conditions; see LICENSE.txt for details.");
+
         /* Configure the CLI Options */
 
         OptionParser parser = new OptionParser();
